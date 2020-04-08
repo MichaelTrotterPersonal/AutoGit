@@ -11,4 +11,4 @@ def self_update():
 if __name__ == '__main__':
 
 	self_update()
-	print('Done')
+	print('Awesome')
