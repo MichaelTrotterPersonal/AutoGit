@@ -1,2 +1,2 @@
-# AutoGit
-Program for the testing of automatic git update by distributed scripts
+# Tools
+Generalised repo for various self-made tools 
